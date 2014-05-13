@@ -1,5 +1,6 @@
-Mercury
 Earth
+Mercury
+
 venus # what's up?
-Pluto # is stilla planet?
 jupiter# expensive
+is the moon a planet?
