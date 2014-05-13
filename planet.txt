@@ -2,3 +2,4 @@ Mercury
 Earth
 venus # what's up?
 Pluto # is stilla planet?
+jupiter# expensive
